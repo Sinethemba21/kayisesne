@@ -1,0 +1,78 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: linear-gradient(to top, rgba(44,49,66), rgba(0,0,0,.3)), url("../images/business.jpeg");
+background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 800px;
+}
+.navigation ul{
+list-style: none;
+text-align: right;
+margin-top: -35px;
+padding: 15px;
+
+}
+
+.navigation ul li {
+display: inline-grid;
+margin: 12px;
+
+}
+.navigation ul li a{
+  list-style: none;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: white;
+
+}
+.logo{
+  color: #ffffff;
+}
+.gridcontainer{
+  color: #ffffff;
+}
+.header{
+  font-size: 50px;
+}
+
+
+h1 {
+text-align: center;
+
+}
+.gridcontainer ul li{
+display: inline-block;
+margin:50px;
+text-transform: uppercase;
+
+}
+.header h1{
+  color:#ffffff;
+}
+
+.gridcontainer ul li{
+  margin-top: 200px;
+  margin-left: 250px;
+}
+.justice{
+color:#aba104
+}
+.header{
+text-align: center;
+}
+button {
+width:15%;
+height: 30px;
+background-color: #aba104;
+color: white;
+text-transform: capitalize;
+
+
+}
+span {
+  color: white;
+}
